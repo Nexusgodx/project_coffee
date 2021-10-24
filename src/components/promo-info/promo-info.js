@@ -14,7 +14,8 @@ const PromoInfoTitle = styled.h1`
     font-size: 40px;
     line-height: 57.76px;
     font-weight: 700;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: center;
 `;
 
 const PromoInfoSubtitle = styled.div`
